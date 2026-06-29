@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtual environment
+motorproj/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large local files
+data/
+models/
